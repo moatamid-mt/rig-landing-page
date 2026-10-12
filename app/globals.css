@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+
+@layer base {
+
+  body {
+    background-color: #F5F5F5;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+  }
+
+  ul,
+  ol {
+    list-style: none;
+
+  }
+
+  a {
+    text-decoration: none;
+
+  }
+
+}
