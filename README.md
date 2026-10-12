@@ -4,6 +4,9 @@ A responsive, high-fidelity SaaS landing page built with **Next.js 15 (App Route
 
 ---
 
+> **Note:** This repository is a quick proof-of-concept / layout demo built in just a few hours to showcase UI structuring and basic styling. It is not intended to represent full production architecture or complex backend logic.
+
+---
 ## 🚀 Live Demo
 
 [View Live Project on Vercel](rig-landing-page.vercel.app) 
