@@ -6,7 +6,7 @@ A responsive, high-fidelity SaaS landing page built with **Next.js 15 (App Route
 
 ## 🚀 Live Demo
 
-[View Live Project on Vercel](https://your-vercel-deployment-link.vercel.app) 
+[View Live Project on Vercel](rig-landing-page.vercel.app) 
 
 ---
 
